@@ -1,0 +1,11 @@
+Flask
+opencv-python
+numpy
+Pillow
+realesrgan
+basicsr
+werkzeug
+scikit-learn
+webcolors
+torch==2.0.1 
+torchvision==0.15.2
